@@ -3878,7 +3878,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231828</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Passat B6 a B7 2005-2014 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5778</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5465,7 +5464,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232918</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volvo V40 2012-2019 (combi, jedno dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5821</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13430,7 +13428,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233404</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Range Rover Sport 2005-2013</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7760</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -27677,7 +27674,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231424</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Seat Leon 2012-2020 (combi, dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6878</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -48648,7 +48644,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>234901</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Omoda 5 2022-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39011</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50968,6 +50963,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231622</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki Vitara 2015-2024 (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7851</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -52601,6 +52597,9 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/84/2a/842a025ff48b569a8834bc50b6276c0cp480902-800x800.jpg</IMAGE>
+		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
