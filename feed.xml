@@ -420,6 +420,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230434</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford C-Max 2010-2019 (opravná sada)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5201</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -3878,6 +3879,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231828</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Passat B6 a B7 2005-2014 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5778</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4248,6 +4250,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231145</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Chevrolet Trax 2013-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5790</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4620,7 +4623,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230632</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Santa Fe 2012-2018</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5800</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4937,6 +4939,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231327</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Megane II. 2003-2009 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5808</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5095,6 +5098,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232005</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Seat Exeo 2008-2013 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5813</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5463,6 +5467,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232918</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volvo V40 2012-2019 (combi, jedno dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5821</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5561,7 +5566,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>Suzuki</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>590</PRICE_VAT>
+		<PRICE_VAT>640</PRICE_VAT>
 		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
 		<EAN>5900232677801</EAN>
 		<VAT>21</VAT>
@@ -5779,6 +5784,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230430</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Fiesta 2008-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5927</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -6464,6 +6470,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230739</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Kia Ceed 2012-2018 (hb)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6607</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7155,6 +7162,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 300 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6623</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7209,6 +7217,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 350 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6624</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7263,6 +7272,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 400H 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6625</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7794,7 +7804,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230904</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes A-Class W168 1997-2004</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6637</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7848,7 +7857,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230904</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes A-Class W169 2004-2012 (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6638</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8061,6 +8069,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230927</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLK-Class X204 2008-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6650</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8166,6 +8175,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230934</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes M-Class 2011-2019 (W166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6652</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8427,6 +8437,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231025</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Nissan X-Trail 2007-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6662</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9168,6 +9179,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231145</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Opel Mokka 2012-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6677</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9376,7 +9388,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231113</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Opel Zafira A 1995-2005</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6681</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9429,6 +9440,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231128</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Opel Zafira B 2005-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6682</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9956,6 +9968,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231224</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Peugeot 508 2011-2018 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6694</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -10274,6 +10287,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231729</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Auris 2006-2012 (hb)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6703</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11906,6 +11920,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231375</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Megane 2014-2016 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6876</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12112,6 +12127,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232110</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X5 1999-2006 (E53)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6941</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13423,6 +13439,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233404</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Range Rover Sport 2005-2013</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7760</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -14624,6 +14641,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230129</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Citroen C3 Picasso 2009-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8214</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -14782,7 +14800,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232919</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volvo XC90 2015-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8273</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -15259,6 +15276,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230614</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Santa Fe 2006-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8400</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17702,6 +17720,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230452</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford S-Max 2015- (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11987</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18492,6 +18511,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232039</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Audi Q5 2017-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>14743</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18700,6 +18720,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231625</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki Ignis 2016- (4x2) / Hybrid 2019-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>15365</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19120,6 +19141,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230934</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLE-Class 2015-2019 (W166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16564</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20982,6 +21004,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231880</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW T-Roc 2017- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17649</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21406,6 +21429,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233503</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Porsche Cayenne 2010-2017 (soundsystém BOSE)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6851</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21781,7 +21805,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232125</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X5 2013-2018 (F15)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5699</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -23489,6 +23512,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231869</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Up 2012- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18837</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -24844,6 +24868,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/fd/ac/fdac998ddad876489b40d95c664a1dc6p481782-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/98/e2/98e2c67619f223fd32c1bce9f098705ep477926-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/73/d0/73d005b88e1999fe47561da08590cab2p139312-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/d8/9b/d89b292172d8ee948b49beaa4aee2da0p139311-800x800.jpg</IMAGE>
@@ -26530,6 +26555,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232154</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X7 2019- (G07)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22001</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -26747,6 +26773,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231892</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW T-Cross 2019- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22005</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -27067,7 +27094,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232155</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X6 2020- (G06)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22153</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -27607,6 +27633,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231424</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Seat Leon 2012-2020 (combi, dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6878</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28341,6 +28368,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232005</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Audi A4 2000-2008 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5014</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28986,6 +29014,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230637</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai i20 2014-2020 (hb, výbava Classic)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7529</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -29144,6 +29173,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230637</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai i20 2014-2020 (hb, výbava Classic Plus)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7532</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -29514,6 +29544,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232926</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volvo XC60 2017- (Hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22842</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30122,6 +30153,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231440</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Seat Leon 2020- (hatchback)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>23236</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30336,7 +30368,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231857</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Beetle 2011-2019 (bez subwooferu)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5760</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31541,6 +31572,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230338</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Fiat Freemont 2011-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5725</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -32974,6 +33006,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233107</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Jeep Grand Cherokee 2010-2021</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5787</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33237,6 +33270,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231772</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki Swace 2020-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25462</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35968,6 +36002,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231619</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki SX4 S-Cross 2013-2021 (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5827</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -37775,6 +37810,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231364</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Dacia Lodgy 2012-2022 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4486</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38455,6 +38491,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230768</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Kia Sportage 2022- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29253</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38821,6 +38858,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231619</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki S-Cross 2022- (MHEV, horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26614</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38874,6 +38912,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230446</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Tourneo Connect 2013-2022 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6595</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -40040,6 +40079,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231772</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Corolla 2018- (combi, hybrid, horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18981</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -40881,6 +40921,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231162</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Opel Mokka 2021- (jedno dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>27366</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -40988,6 +41029,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233314</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus NX 2021-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>31880</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42004,7 +42046,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>Mazda</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>1260</PRICE_VAT>
+		<PRICE_VAT>1299</PRICE_VAT>
 		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
 		<EAN>5901165238893</EAN>
 		<VAT>21</VAT>
@@ -42065,7 +42107,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232815</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ssangyong Tivoli 2019- (dolní dno, 4x4, paket Comfort)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33434</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42812,6 +42853,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231249</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Peugeot 308 2022- (hb)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>27524</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42866,6 +42908,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231249</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Opel Astra L 2022- (hb)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33357</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -44142,6 +44185,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231872</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Passat B8 2015-2023 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6854</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -44779,6 +44823,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231541</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Octavia IV. 2020- (combi, horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22840</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45732,6 +45777,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231626</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki Swift 2017-2023</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16165</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46490,6 +46536,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230664</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Kona 2023- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38343</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46544,6 +46591,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230665</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Kona 2023- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38344</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46756,6 +46804,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231236</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Peugeot 3008 2016-2024 (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>14422</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -47503,7 +47552,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>234405</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast MG ZS 2019- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38948</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -48030,7 +48078,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>Citroen</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>920</PRICE_VAT>
+		<PRICE_VAT>999</PRICE_VAT>
 		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
 		<EAN>5901165202702</EAN>
 		<VAT>21</VAT>
@@ -48724,6 +48772,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232140</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X3 2017-2024 (G01)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17635</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -49426,6 +49475,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233316</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 450h 2022- (AL30)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39152</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -49854,7 +49904,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232227</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mazda 6 2012-2024 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6633</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50614,6 +50663,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230978</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLC-Class 2023- (C254)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39760</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -52567,6 +52617,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231390</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Scenic Grand 2016-2022 (5 i 7 míst, sklopená 3. řada)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>14322</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -52741,6 +52792,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>2318113</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volkswagen ID.Buzz 2022- (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40490</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53138,424 +53190,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PRODUCT_NUMBER>40262</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
-		<DESCRIPTION>Gumové autokoberce pro vůz Fiat 500 mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
-Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
-Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
-Střih autokoberců přesně odpovídá interiéru vozu (Fiat 500).Autokoberce REZAW-PLAST jsou vyráběny ze syntetického kaučuku a jsou odolné vůči opotřebení a snadné na údržbu.
-Díky speciální technologii výroby si zachovávají svoji elastičnost v rozmezí teplot -40°C až +110°C.Originální fixace nejsou součástí autokoberců Rezaw-Plast.
-Výrobce však přidává zvlášť ke každé sadě univerzální fixace. Zvlášť z toho důvodu, abyste měli možnost se rozhodnout, jestli v autokobercích fixace chcete nebo ne. Pokud ano, fixace lze velmi jednoduše nainstalovat do vyznačených míst na autokoberci. 
-Každá sada obsahuje 4 univerzální fixace do autokoberců a 4 plastové šrouby do podlahy vozu pro upevnění předních koberců. Pokud byste chtěli zafixovat také autokoberce zadní, je třeba dodatečně zakoupit 4 ks univerzálních fixací.
-Jestliže je podlaha Vašeho auta z výroby opatřena originálními fixačními trny, doporučujeme k autokobercům Rezaw-Plast dokoupit také originální fixace.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/dd/49/dd49fb1ed29583bbff233aaedf18f325p191353-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/79/5b/795ba4f13514efbcef9a33b51168271bp191354-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/5e/34/5e343e9c21a811cb5bcfa4e6677abad0p191355-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/98/a9/98a9c6a96c1c2fdd71616b480cb67b18p191356-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Počet kusů v sadě</NAME>
-				<VALUE>4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materi</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>gumové</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2007-2024</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>500</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Fiat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>999</PRICE_VAT>
-		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
-		<EAN>5901225253316</EAN>
-		<VAT>21</VAT>
-		<CODE>201503</CODE>
-		<NAME>Gumové autokoberce Rezaw-Plast Fiat 500 2007-2024</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<PRODUCT_NUMBER>128</PRODUCT_NUMBER>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Gumové autokoberce Gledring pro vůz Fiat 500, mají 1 cm vysoký okraj, který chrání původní koberec auta před vodou, tajícím sněhem a agresivní solí.
-Autokoberce Gledring se vyznačují především atraktivním vzorem a moderním designem, ale také vysokou kvalitou zpracování. Jako jediné autokoberce z našeho sortimentu jsou jemně parfemované.
-Autokoberce jsou vyrobené přímo na míru a dokonale kopírují tvar podlahy daného typu vozidla, v tomto případě Fiat 500.
-Sada předních gumových autokoberců obsahuje fixace pro upevnění koberců k podlaze vozu.Autokoberce Gledring jsou lisovány ze syntetického kaučuku, bez použití PVC. Jsou odolné vůči opotřebení a snadné na údržbu.
-Vzor na autokobercích nezadržuje při čištění nečistoty jako například čtverečky u jiných autokoberců, které se špatně vymývají.
-Společnost Gledring dokonce vyvinula vlastní speciální přípravek na suché čištění autokoberců, který rychle a efektivně odstraní veškeré nečistoty z gumového koberce.
-Přestože přípravek vyvinula firma Gledring pro čištění vlastních autokoberců, jedná se o univerzální přípravek, který lze použít k ošetření a konzervování libovolných gumových výrobků.Autokoberce Gledring jsou pravidelně podrobovány zátěžovým testům, aby byla kontinuálně zajištěna jejich kvalita.
-Testovací robot je schopen nasimulovat 10 000 ujetých kilometrů za 5 hodin. Gledring uvádí, že při běžném používání je životnost autokoberců až 150 000 ujetých kilometrů.
-Gumové autokoberce splňují atest 8SD 3432 Ministerstva dopravy ČR - je schválena jejich technická způsobilost pro použití ve vozidlech.Sada autokoberců je pro prezentační účely upevněna na plastovém ramínku. Konce plastového ramínka se odlomí a prostřední část, která zůstane, lze použít jako škrabku na led.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Gledring liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-V článku napravo jsou podrobně popsané rozdíly mezi autokoberci různých výrobců. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/7c/e5/7ce5b86777f2dbc9379ad2c65f6c005dp69223-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Počet kusů v sadě</NAME>
-				<VALUE>4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materi</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>gumové</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2007-2024</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>500</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Fiat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>699</PRICE_VAT>
-		<MANUFACTURER>Gledring</MANUFACTURER>
-		<EAN>3830006481483</EAN>
-		<VAT>21</VAT>
-		<CODE>5869</CODE>
-		<NAME>Gumové autokoberce Gledring Fiat 500 2007-2024</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Fiat 500 (pasuje i pro hybrid od roku 2020-). Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
-Okraj vany má okraj vysoký 2cm, který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
-Povrch gumové vany již z podstaty materiálu zabraňuje klouzání a samovolné posouvání nákladu v zatáčkách nebo při brzdění.
-Vanu lze z kufru kdykoliv velmi jednoduše vyjmout a čištění i údržba jsou pak velice snadné.
-Gumové vany značky Rigum jsou 100% český výrobek!Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
-Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/c9/8e/c98e0aa17358068a1f6c9d9814f67241p358188-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/6c/33/6c33a077075592cd032ed836d4fe5cbdp358118-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/6a/ec/6aecd5a67f5cc45a4e6d80f5bb62984ap358119-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/12/14/12149918e4b0c48571757e8bb1ec3764p358120-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>102 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>50 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2007-2024</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>500</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Fiat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>530</PRICE_VAT>
-		<MANUFACTURER>Rigum</MANUFACTURER>
-		<EAN>8592980407006</EAN>
-		<VAT>21</VAT>
-		<CODE>33032</CODE>
-		<NAME>Gumová vana do kufru Rigum Fiat 500 2007-2024</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Kvalitní gumové autokoberce pro vůz Fiat 500, které mají tradiční (čtverečkovaný) design, díky kterému nedochází k přelévání vody nebo tajícího sněhu po kobercích. Okraj autokoberců je přibližně 1 cm vysoký.
-Autokoberce od německého výrobce PETEX jsou vyráběné na míru a přesně pasují do interiéru konkrétního vozidla (Fiat 500).
-V případě, že je vůz z výroby opatřen trny v podlaze pro použití originálních fixací, pak jsou fixace součástí předních autokoberců.Autokoberce se lisují bez použití PVC a během výroby se pravidelně kontrolují na přítomnost dalších toxických a škodlivých látek.
-Výrobek splňuje certifikát 555203010 / 2015 od zkušebního institutu Dekra. Splňují tak nejvyšší požadavky na kvalitu, kterou jsou německé výrobky celosvětově známy. Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Petex liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/80/e9/80e9bcc7d3c837cc9c830837c4686a27p68019-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Počet kusů v sadě</NAME>
-				<VALUE>4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Obsah sady</NAME>
-				<VALUE>Sada na celé auto</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>gumové</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2007-2024</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>500</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Fiat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>780</PRICE_VAT>
-		<MANUFACTURER>Petex</MANUFACTURER>
-		<EAN>4028985014719</EAN>
-		<VAT>21</VAT>
-		<CODE>26095</CODE>
-		<NAME>Gumové autokoberce Petex Fiat 500 2020-2024 (hybrid)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Gumové autokoberce Gledring pro vůz Fiat 500, mají 1 cm vysoký okraj, který chrání původní koberec auta před vodou, tajícím sněhem a agresivní solí.
-Autokoberce Gledring se vyznačují především atraktivním vzorem a moderním designem, ale také vysokou kvalitou zpracování. Jako jediné autokoberce z našeho sortimentu jsou jemně parfemované.
-Autokoberce jsou vyrobené přímo na míru a dokonale kopírují tvar podlahy daného typu vozidla, v tomto případě Fiat 500.
-Každá sada gumových autokoberců zpravidla obsahuje fixace pro upevnění předních koberců k podlaze vozu.Autokoberce Gledring jsou lisovány ze syntetického kaučuku, bez použití PVC. Jsou odolné vůči opotřebení a snadné na údržbu.
-Vzor na autokobercích nezadržuje při čištění nečistoty jako například čtverečky u jiných autokoberců, které se špatně vymývají.
-Společnost Gledring dokonce vyvinula vlastní speciální přípravek na suché čištění autokoberců, který rychle a efektivně odstraní veškeré nečistoty z gumového koberce.
-Přestože přípravek vyvinula firma Gledring pro čištění vlastních autokoberců, jedná se o univerzální přípravek, který lze použít k ošetření a konzervování libovolných gumových výrobků.Autokoberce Gledring jsou pravidelně podrobovány zátěžovým testům, aby byla kontinuálně zajištěna jejich kvalita.
-Testovací robot je schopen nasimulovat 10 000 ujetých kilometrů za 5 hodin. Gledring uvádí, že při běžném používání je životnost autokoberců až 150 000 ujetých kilometrů.
-Gumové autokoberce splňují atest 8SD 3432 Ministerstva dopravy ČR - je schválena jejich technická způsobilost pro použití ve vozidlech.Sada autokoberců je pro prezentační účely upevněna na plastovém ramínku. Konce plastového ramínka se odlomí a prostřední část, která zůstane, lze použít jako škrabku na led.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Gledring liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-V článku napravo jsou podrobně popsané rozdíly mezi autokoberci různých výrobců. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/2d/ed/2dede012e8536f9d7d140b9aedf0c81bp296190-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Obsah sady</NAME>
-				<VALUE>Sada na celé auto</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Počet kusů v sadě</NAME>
-				<VALUE>4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>gumové</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2007-2024</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>500</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Fiat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>799</PRICE_VAT>
-		<MANUFACTURER>Gledring</MANUFACTURER>
-		<EAN>3830006485832</EAN>
-		<VAT>21</VAT>
-		<CODE>25287</CODE>
-		<NAME>Gumové autokoberce Gledring Fiat 500e 2020-</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Vyprodáno</AVAILABILITY_IN_STOCK>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Fiat 500 (pasuje i pro hybrid od roku 2020-). Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
-Gumové vany do kufru od výrobce Novline mají zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu. Vany se dále vyznačují nejpřesnějším střihem z celého našeho sortimentu van do kufru.Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
-Díky technologii výroby z inovativních polymerových materiálů (TPE) jsou vany do kufru značky Novline velmi odolné vůči opotřebení a zároveň si zachovávají svoji elastičnost a to až do rozmezí teplot -50°C až +50°C. Vany jsou odolné vůči UV záření a při vystavení slunečním paprskům neblednou.
-Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Novline liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
-Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.Jestliže zakoupíte gumové autokoberce nebo gumovou vanu do kufru značky Novline, může být v některých případech produkt označen jako Element. Nemusíte se však bát. I když jsou autokoberce nebo vana do kufru označené jako Element, jedná se skutečně o výrobky Novline.
-Proč tomu tak je vysvětlujeme v tomto článku.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/ea/45/ea453ae4e8f44462918e53760f4c97fdp26285-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2007-2024</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>500</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Fiat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>599</PRICE_VAT>
-		<MANUFACTURER>Novline</MANUFACTURER>
-		<EAN>4610031136362</EAN>
-		<VAT>21</VAT>
-		<CODE>6354</CODE>
-		<NAME>Gumová vana do kufru Novline Fiat 500 2007-2024</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Kvalitní gumové autokoberce pro vůz Fiat 500, které mají tradiční (čtverečkovaný) design, díky kterému nedochází k přelévání vody nebo tajícího sněhu po kobercích. Okraj autokoberců je přibližně 1 cm vysoký.
-Autokoberce od německého výrobce PETEX jsou vyráběné na míru a přesně pasují do interiéru konkrétního vozidla (Fiat 500).
-V případě, že je vůz z výroby opatřen trny v podlaze pro použití originálních fixací, pak jsou fixace součástí předních autokoberců.Autokoberce se lisují bez použití PVC a během výroby se pravidelně kontrolují na přítomnost dalších toxických a škodlivých látek.
-Výrobek splňuje certifikát 555203010 / 2015 od zkušebního institutu Dekra. Splňují tak nejvyšší požadavky na kvalitu, kterou jsou německé výrobky celosvětově známy. Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Petex liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/80/e9/80e9bcc7d3c837cc9c830837c4686a27p68019-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/31/ea/31ea75c27ad02540801fe3d9e5e5a83ap1678-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/da/3c/da3cfccc4e8bb43a60aa664dce175fa6p1679-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/3b/ab/3bab341e57f9ca5c74238eb9868f838fp1680-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Počet kusů v sadě</NAME>
-				<VALUE>4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materi</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>gumové</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2007-2024</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>500</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Fiat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>780</PRICE_VAT>
-		<MANUFACTURER>Petex</MANUFACTURER>
-		<EAN>4028985014719</EAN>
-		<VAT>21</VAT>
-		<CODE>584</CODE>
-		<NAME>Gumové autokoberce Petex Fiat 500 2007-2024</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-	</SHOPITEM>
-	<SHOPITEM>
 		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Fiat 500 (pasuje i pro hybrid od roku 2020-). Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
 Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
 U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
@@ -53568,7 +53202,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/59/bf/59bfa318f596d8024be11ba2541f7672p474985-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a7/cb/a7cbdc82a9428f4253411f28e62d99e0p481584-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/73/d0/73d005b88e1999fe47561da08590cab2p139312-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/d8/9b/d89b292172d8ee948b49beaa4aee2da0p139311-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/e6/f7/e6f7909b680e48efda9468687f927247p474989-800x800.jpg</IMAGE>
@@ -53609,11 +53243,11 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PRODUCT_NUMBER>22624</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
-		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Fiat 500e. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
-Okraj vany má okraj vysoký 2cm, který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
-Povrch gumové vany již z podstaty materiálu zabraňuje klouzání a samovolné posouvání nákladu v zatáčkách nebo při brzdění.
-Vanu lze z kufru kdykoliv velmi jednoduše vyjmout a čištění i údržba jsou pak velice snadné.
-Gumové vany značky Rigum jsou 100% český výrobek!Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Fiat 500e. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
+Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
+U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
+Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
+Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
 Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
 Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
 		<CATEGORIES>
@@ -53621,15 +53255,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/a3/dc/a3dcd645d36a5231d4fc3e425b087b63p473694-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/e1/80/e1807821d8f9b2fefde47e3cf9a0e0ecp459927-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/40/15/4015ad688ab263cc791e8308c21eb157p459928-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/81/50/81501ead9cb0ba26325e23beff76d4bap459929-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/88/63/8863b888e949f765d2549829e7edeee9p481585-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
+				<VALUE>neznámá</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Barva</NAME>
@@ -53640,148 +53271,70 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>102 cm</VALUE>
+				<NAME>Hloubka</NAME>
+				<VALUE>57 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>53 cm</VALUE>
+				<NAME>Šířka</NAME>
+				<VALUE>102,5 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2007-2024</VALUE>
+				<VALUE>2020-</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
-				<VALUE>500</VALUE>
+				<VALUE>500e</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Značka vozu</NAME>
 				<VALUE>Fiat</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>599</PRICE_VAT>
-		<MANUFACTURER>Rigum</MANUFACTURER>
+		<PRICE_VAT>1160</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165244801</EAN>
 		<VAT>21</VAT>
-		<CODE>36933</CODE>
-		<NAME>Gumová vana do kufru Rigum Fiat 500e 2020-</NAME>
+		<CODE>230359</CODE>
+		<NAME>Gumová vana do kufru Rezaw-Plast Fiat 500e 2020-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>40534</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto Toyota Corolla Verso nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-4 vymezovací plíšky
-obrázkový návod montáže</DESCRIPTION>
+		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Škoda Superb IV. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
+Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
+U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
+Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
+Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
+Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
 		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/38/15/38156f10ef8939d70f72bb8177b1f273p122733-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/be/9a/be9ad3d1dc0e43cfb0bbd9be0331708dp481688-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
+				<VALUE>neznámá</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2001-2006</VALUE>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Corolla Verso</VALUE>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Toyota</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>830</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<EAN>5905784855578</EAN>
-		<VAT>21</VAT>
-		<CODE>40521</CODE>
-		<NAME>Ofuky oken Toyota Corolla Verso 2002-2004 (přední)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto Land Rover Discovery nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-4 vymezovací plíšky
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/38/15/38156f10ef8939d70f72bb8177b1f273p122733-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/fb/46/fb4631c0b56d1f672048d912c904820ap481482-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
+				<NAME>Hloubka</NAME>
+				<VALUE>114 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2009-2017</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Discovery</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Land Rover</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>830</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40522</CODE>
-		<NAME>Ofuky oken Land Rover Discovery 2009-2017 (přední)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto BYD Seal U nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-4 vymezovací plíšky
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/38/15/38156f10ef8939d70f72bb8177b1f273p122733-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/0e/19/0e19579dc825d34a957b5dff70ca2db7p481485-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
+				<NAME>Šířka</NAME>
+				<VALUE>120 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
@@ -53789,474 +53342,20 @@ obrázkový návod montáže</DESCRIPTION>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
-				<VALUE>Seal U</VALUE>
+				<VALUE>Superb IV.</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Značka vozu</NAME>
-				<VALUE>BYD</VALUE>
+				<VALUE>Škoda</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>830</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
+		<PRICE_VAT>1540</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165248557</EAN>
 		<VAT>21</VAT>
-		<CODE>40523</CODE>
-		<NAME>Ofuky oken BYD Seal U 2024- (přední)</NAME>
+		<CODE>231550</CODE>
+		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Superb IV. 2025- (liftback)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto BYD Seal U nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-2 ofuky na zadní dveře
-8 vymezovacích plíšků
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/04/33/0433f072548f9574ade31abeb84732dbp122766-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/4c/0b/4c0bad8febd4fe60fad8fa0340f33e0fp481488-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2024-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Seal U</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>BYD</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1290</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40524</CODE>
-		<NAME>Ofuky oken BYD Seal U 2024- (4 díly)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto BYD Dolphin nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-4 vymezovací plíšky
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/38/15/38156f10ef8939d70f72bb8177b1f273p122733-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/c8/ec/c8ec9d5bddf93c2cc5ed10850c2c87ccp481491-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2021-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Dolphin</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>BYD</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>830</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40525</CODE>
-		<NAME>Ofuky oken BYD Dolphin 2021- (přední)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto BYD Doplhin nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-2 ofuky na zadní dveře
-8 vymezovacích plíšků
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/04/33/0433f072548f9574ade31abeb84732dbp122766-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/0e/d3/0ed3b34ab01b477cc5782355edfb145bp481494-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2021-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Dolphin</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>BYD</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1290</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40526</CODE>
-		<NAME>Ofuky oken BYD Dolphin 2021- (4 díly)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto BYD Seal nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-4 vymezovací plíšky
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/38/15/38156f10ef8939d70f72bb8177b1f273p122733-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/9a/ab/9aab6db9b67f5a46781d02452851e5d3p481497-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2024-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Seal U</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>BYD</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>830</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40527</CODE>
-		<NAME>Ofuky oken BYD Seal 2022- (přední)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto BYD Seal nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-2 ofuky na zadní dveře
-8 vymezovacích plíšků
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/04/33/0433f072548f9574ade31abeb84732dbp122766-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/91/dc/91dc09984757003655de94b13b2a7352p481500-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2024-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Seal U</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>BYD</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1290</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40528</CODE>
-		<NAME>Ofuky oken BYD Seal 2022- (4 díly)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto Omoda 5 nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-4 vymezovací plíšky
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/38/15/38156f10ef8939d70f72bb8177b1f273p122733-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/e7/f8/e7f839473764413d269b5e6e1d4b1d72p481503-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2022-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>5</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Omoda</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>830</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40529</CODE>
-		<NAME>Ofuky oken Omoda 5 2022- (přední)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto Omoda 5 nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-2 ofuky na zadní dveře
-8 vymezovacích plíšků
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/04/33/0433f072548f9574ade31abeb84732dbp122766-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/0d/0b/0d0bd9d842d03a6775708d4be70bcd74p481506-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2022-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>5</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Omoda</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1290</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40530</CODE>
-		<NAME>Ofuky oken Omoda 5 2022- (4 díly)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto Jaecoo 7 nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-4 vymezovací plíšky
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/38/15/38156f10ef8939d70f72bb8177b1f273p122733-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/e7/f8/e7f839473764413d269b5e6e1d4b1d72p481503-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2023-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>7</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Jaecoo</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>830</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40531</CODE>
-		<NAME>Ofuky oken Jaecoo 7 2023- (přední)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto Jaecoo 7 nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-2 ofuky na zadní dveře
-8 vymezovacích plíšků
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/04/33/0433f072548f9574ade31abeb84732dbp122766-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/15/af/15afe66b9b5c309211c82cbfc7380be0p481511-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2023-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>7</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Jaecoo</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1290</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40532</CODE>
-		<NAME>Ofuky oken Jaecoo 7 2023- (4 díly)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Ofuky oken, jinak nazývané deflektory, jsou plastové lišty, které po upevnění do oken automobilu zabraňují silnému proudění vzduchu v interiéru vozu při jízdě s otevřenými okny.
-Díky ofukům je možné pohodlně větrat i ve špatném počasí. Ofuky totiž usměrňují vzduch proudící kolem vozu. Do auta se tak nedostanou dešťové kapky, sněhové vločky ani obtížný hmyz.
-Mezi další nespornou výhodou deflektorů je, že jízda s otevřenými okny je méně hlučná.
-Upozornění: Deflektory nejsou homologované.
-Ať už vlastníte auto Jeep Grand Cherokee nebo jinou značku, ofuky Heko dodají každému vozu dynamický a moderní vzhled.Montáž ofuků je velice jednoduchá, jak je patrné z videonávodu vlevo. Nejprve je nutné maximálně stáhnout okénka (až do dveří). Poté se z ofuků sejme ochranná fólie, která překrývá samolepicí pásky. Ofuky napasujte do rámu dveří a následně zavřete okénka. Ta by měla zůstat zavřená po dalších 24 hodin.
-Jestliže jsou ofuky v rámu volné nebo se vyskytují problémy při otvírání a zavírání oken, použijte vymezovací plíšky, které jsou součástí balení.
-Obsah sady
-
-2 ofuky na přední dveře
-2 ofuky na zadní dveře
-8 vymezovacích plíšků
-obrázkový návod montáže</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Tuning | Tuning karoserie</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Tuning | Tuning karoserie</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/04/33/0433f072548f9574ade31abeb84732dbp122766-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/73/de/73de5d4a4797882a0d7df06037dfd4f0p481514-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2021-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Grand Cherokee</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Jeep</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1290</PRICE_VAT>
-		<MANUFACTURER>Heko</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>40533</CODE>
-		<NAME>Ofuky oken Jeep Grand Cherokee 2021- (4 díly)</NAME>
-		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>40540</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
