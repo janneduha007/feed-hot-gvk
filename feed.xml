@@ -23866,7 +23866,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233410</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Land Rover Discovery Sport 2014-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19146</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -25973,6 +25972,9 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<IMAGE>https://www.autohotarek.cz/upload/images/b4/6f/b46fe7f6ae5ecf7c53e6c084469c58fdp266750-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/73/d0/73d005b88e1999fe47561da08590cab2p139312-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/d8/9b/d89b292172d8ee948b49beaa4aee2da0p139311-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a5/ac/a5ac6c96d02e0ea52816b072a73ad24ep484270-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/70/b6/70b613b594c867041114e84dca5e3509p484269-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/71/8a/718a909618492a3c313a60e0c5ccf5ebp484268-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -35439,7 +35441,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>234101</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Cupra Formentor 2020- (horní dno i jedno dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26216</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -40361,7 +40362,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231162</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Opel Mokka 2021- (jedno dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>27366</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -49663,7 +49663,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230535</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Honda CR-V 2018-2023 (5 míst, hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19145</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53481,6 +53480,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231854</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Touareg 2010-2018 (4-zónová klimatizace)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40834</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
