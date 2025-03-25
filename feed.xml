@@ -1520,7 +1520,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230125</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Citroen C5 2008-2017 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5711</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16830,7 +16829,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>100351</CODE>
 		<NAME>Gumová vana do kufru Rezaw Plast Citroën Jumper L4 2006</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7784</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19129,7 +19127,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232912</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volvo XC60 2008-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6735</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20574,7 +20571,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233111</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Jeep Compass 2017- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17642</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -25986,6 +25982,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		</CATEGORIES>
 		<IMAGES>
 			<IMAGE>https://www.autohotarek.cz/upload/images/b4/6f/b46fe7f6ae5ecf7c53e6c084469c58fdp266750-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/fa/b9/fab9c98ecad6ed2016cb03e4a38e0022p485207-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/73/d0/73d005b88e1999fe47561da08590cab2p139312-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/d8/9b/d89b292172d8ee948b49beaa4aee2da0p139311-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/a5/ac/a5ac6c96d02e0ea52816b072a73ad24ep484270-800x800.jpg</IMAGE>
@@ -28373,7 +28370,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230939</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLA-Class 2013-2019 (X156)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6649</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31735,7 +31731,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230633</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai i10 2014-2020 (hb)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5792</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -32896,7 +32891,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231772</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki Swace 2020-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25462</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39600,7 +39594,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231772</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Corolla 2018- (combi, hybrid, horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18981</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42374,7 +42367,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233409</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Land Rover Discovery 2017- (7 míst, sklopená 3. řada)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18887</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -48769,7 +48761,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233316</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 450h 2022- (AL30)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39152</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -52218,6 +52209,9 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ac/ab/acab7c7dfb6834109800a26473bd4390p485200-800x800.jpg</IMAGE>
+		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
@@ -53169,7 +53163,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231543</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Octavia IV. 2020- (combi, jedna podlaha)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>23548</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53226,7 +53219,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231543</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Octavia IV. 2020- (liftback)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33807</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53469,6 +53461,9 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/42/f3/42f339592bac80192c4c014e4f5f6138p485192-800x800.jpg</IMAGE>
+		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
@@ -53558,6 +53553,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231161</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Peugeot 208 2023- (MHEV)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40936</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
