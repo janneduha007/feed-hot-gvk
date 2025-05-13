@@ -15217,6 +15217,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230614</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Santa Fe 2006-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8400</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18128,7 +18129,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2017-</VALUE>
+				<VALUE>2017-2024</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
@@ -27615,7 +27616,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2017-</VALUE>
+				<VALUE>2017-2024</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
@@ -42581,7 +42582,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231868</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Golf VII. Sportsvan 2014-2018 (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6371</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50882,8 +50882,10 @@ Vanu lze  z kufru jednoduše vyjmout, její čištění a údržba je pak velic
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/34/68/346886a51d0d64b6766dd063ce5cb407p11954-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/28/c6/28c6a45b87c51255593181e28ce34f91p11955-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/50/53/5053b61c9c2df539f0c7e98b65d1ac3cp488904-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1f/3a/1f3a90319c90aba146817c3e0486f0ecp488905-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/6b/57/6b570f4f8162da7c9a1e2378d1f543c6p488906-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/9b/6a/9b6af36008750449be89db3ad2672d2bp488907-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -51698,7 +51700,10 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/b2/ef/b2effacab2fa551d45ec3384e38e5fa8p481054-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/66/33/6633704be298a860dec46090db7c0329p488908-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/de/32/de323f4b73dd822e3f48417436231663p488909-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d1/20/d1200817645e15bd8393306d625fe2e1p488910-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ee/9d/ee9dad8d8d028555964f65805dc37bcbp488911-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -52668,7 +52673,10 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/94/f6/94f6a2e051899c430cae8a7f3b41a12ep483565-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/bf/a1/bfa11b14295051a5779732c1336066bbp488892-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ef/be/efbe439441e3b3a32f3f16d030fd7b8ep488893-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a9/22/a92270f6aaee75b90de626142e9ebfbep488894-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/cd/d0/cdd0dd2479177962af585edc7c88c06dp488895-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -52726,7 +52734,10 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/eb/5c/eb5cc40a1a1cb266dca24ecf8e164543p483336-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/6f/db/6fdb5bb69f7f462eb72cf4ab7267d7bfp488896-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/cb/0a/cb0a3e131676e8a9699ef81fd83c09f0p488898-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/92/c0/92c0cef98b3d53b36fb428f5a1321b96p488897-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/5e/6f/5e6fb8347f1ac7f8f7e911a66526de97p488899-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -52784,7 +52795,10 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/25/9a/259ab6ede1a4a413177a6533ae41a03ap483566-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/59/11/5911de178cf1ec9f085fc458c4f30193p488900-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/86/e6/86e6276ceac8bd030a9e6c57e7bd6b02p488901-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/8f/86/8f86215262f57f9d310e910d41085d27p488902-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b1/13/b113ca6cb6ae0570e146807716b7722bp488903-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
