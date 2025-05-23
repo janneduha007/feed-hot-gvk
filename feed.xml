@@ -2324,7 +2324,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230437</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Focus 2011-2018 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5734</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17154,7 +17153,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231763</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Prius 2015-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11778</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20757,7 +20755,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231355</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Scenic 2009-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17826</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -36975,7 +36972,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230661</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Tucson 2021- (horní dno, soundsystem Krell)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26587</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -41892,7 +41888,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>Kia</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>752</PRICE_VAT>
+		<PRICE_VAT>658</PRICE_VAT>
 		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
 		<EAN>5901165210431</EAN>
 		<VAT>21</VAT>
@@ -44869,7 +44865,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231877</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Tiguan 2016-2023 (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11697</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50354,14 +50349,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>74 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>106,5 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>74 x 106,5 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -50418,14 +50405,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>69 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>124 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -50486,14 +50465,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>84 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>113,5 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>84 x 113,5 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -50551,14 +50522,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>64,5 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>101 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -51060,7 +51023,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>2317100</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Corolla Cross 2022- (1.8 HEV, jedna podlaha)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40264</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -51414,14 +51376,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>97 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>107 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>97 x 107 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -51476,14 +51430,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>101 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>106 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>101 x 106 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -51536,14 +51482,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>116 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>123 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -51601,14 +51539,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>116 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>83 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>116 x 83 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -51664,14 +51594,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>116 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>83 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -51781,14 +51703,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>104 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>112,5 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>104 x 112,5 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -51845,14 +51759,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>73 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>130 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -52013,14 +51919,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>57 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>102,5 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>57 x 102,5 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -52073,14 +51971,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>114 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>120 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -52598,14 +52488,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>76 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>106 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>76 x 106 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -52661,14 +52543,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>98 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>100,5 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -52728,14 +52602,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>96 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>104 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>96 x 104 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -52791,14 +52657,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>95 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>128 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -52880,7 +52738,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231543</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Octavia IV. 2020- (combi, jedna podlaha)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>23548</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -52937,7 +52794,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231543</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Octavia IV. 2020- (liftback)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33807</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53028,14 +52884,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>89 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>102 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>89 x 102 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -53089,14 +52937,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>103 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>105 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -53224,7 +53064,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231854</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Touareg 2010-2018 (4-zónová klimatizace)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40834</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53480,14 +53319,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>102 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>105 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>102 x 105 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -53602,14 +53433,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>106 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>114,5 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>106 x 114,5 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -53668,14 +53491,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>79 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>106 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>79 x 106 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -53732,14 +53547,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Materiál</NAME>
 				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>74 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>99 cm</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
@@ -54083,14 +53890,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>guma</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE>86 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE>98 cm</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>86 x 98 cm</VALUE>
 			</TEXT_PROPERTY>
@@ -54292,6 +54091,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/64/5e/645e1074b173c70042c3ee57af77920ap489565-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/3a/c4/3ac4742efa446d464a2bbae07982aac4p477206-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/a1/44/a144cfed00a81ea50cb500e35f8791dep477207-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/4a/b7/4ab77a8c309033689f95b5df50167653p477208-800x800.jpg</IMAGE>
@@ -54626,14 +54426,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>75 x 98</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE />
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE />
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
 				<VALUE>2022-</VALUE>
 			</TEXT_PROPERTY>
@@ -54686,14 +54478,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<TEXT_PROPERTY>
 				<NAME>Rozměry (hloubka x šířka)</NAME>
 				<VALUE>75 x 98</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Hloubka</NAME>
-				<VALUE />
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Šířka</NAME>
-				<VALUE />
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
