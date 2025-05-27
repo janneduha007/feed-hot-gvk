@@ -841,7 +841,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232117</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW 5 2010-2017 (F11, combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5694</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4247,7 +4246,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231145</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Chevrolet Trax 2013-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5790</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -6255,7 +6253,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230731</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai ix20 2010-2019 (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6601</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7157,7 +7154,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 300 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6623</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7212,7 +7208,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 350 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6624</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7267,7 +7262,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 400H 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6625</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9173,7 +9167,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231145</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Opel Mokka 2012-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6677</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46730,7 +46723,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230920</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes E-Class S211 2003-2009 (combi, kufr bez přihrádky)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6644</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50640,6 +50632,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232146</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X2 2018-2023 (F39, dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17636</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
