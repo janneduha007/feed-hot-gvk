@@ -14222,14 +14222,13 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>Land Rover</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>690</PRICE_VAT>
+		<PRICE_VAT>1230</PRICE_VAT>
 		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
 		<EAN>5901165207974</EAN>
 		<VAT>21</VAT>
 		<CODE>233405</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Range Rover Evoque 2011-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7759</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22220,7 +22219,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231355</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Scenic 2009-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17826</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -23315,7 +23313,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232043</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Audi Q8 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18373</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -26930,7 +26927,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231540</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Kamiq 2019- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19834</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42521,7 +42517,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231899</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW ID.3 2020- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>31640</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42578,7 +42573,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231898</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW ID.3 2020- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>31641</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45732,7 +45726,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231898</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Cupra Born 2021- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>36095</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
