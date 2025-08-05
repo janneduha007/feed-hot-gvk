@@ -55,7 +55,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232013</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Audi A3/S3 2003-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5011</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -1016,7 +1015,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232109</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X3 2004-2010 (E83)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5696</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -2844,7 +2842,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230517</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Honda Civic 2006-2012 (hb)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5745</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -3017,7 +3014,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231514</CODE>
 		<NAME>Gumová vana do kufru Rezaw Plast Škoda Fabia II 2007-2014 Hatchback</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5750</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5153,9 +5149,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		</CATEGORIES>
 		<IMAGES>
 			<IMAGE>https://www.autohotarek.cz/upload/images/5f/e6/5fe6e10de06a58135fed8ea2e026e20fp136859-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/62/31/62312e2e21ecd4bc54c03fb870a55ebdp145460-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/fa/c0/fac09f4d658f2ba87a9f7a061cceb318p136861-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/e5/05/e505d37f43d3d23897907cd500f8a5b4p136860-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/62/31/62312e2e21ecd4bc54c03fb870a55ebdp145460-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/63/7e/637e53b18d724ae8e38f0ff05efe16fdp495937-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/bb/3b/bb3bd6201c82c35c3471c9ad449ba6dfp495938-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/5f/1e/5f1e6525c62e57eacddcd24811ebd3b3p495939-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -7177,7 +7176,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230736</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Kia Rio 2011-2017 (hb)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6611</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7693,6 +7691,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 300 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6623</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7751,6 +7750,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 350 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6624</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7809,6 +7809,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>233301</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Lexus RX 400H 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6625</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -10140,7 +10141,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231128</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Opel Zafira B 2005-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6682</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11333,7 +11333,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231755</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Auris 2012-2019 (combi, horní dno, Hybrid, packet Premium)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6709</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13200,7 +13199,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232230</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mazda 3 2009-2013 (hb, dojezdové kolo)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6997</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13898,8 +13896,11 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		</CATEGORIES>
 		<IMAGES>
 			<IMAGE>https://www.autohotarek.cz/upload/images/12/62/1262e4f264d1143865b388fe23daaf5ep125496-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/c5/45/c545d085d49877dffeaa9f0a74f12eafp136937-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/4d/7e/4d7eb1678ad44574c3b62025111b05dap136938-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/56/eb/56eb7555b8a9dcb17e8801215401bdf5p496021-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/94/b9/94b9aac0a716b762f72e966f64f06131p496022-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/7c/bb/7cbbfb9985dfcd63819952cbcc8e7067p496023-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/00/56/00564bfc0812009e6968b9cb0bdd5eb8p496024-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ef/76/ef768033065f8748977482ada01980a7p496025-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -15189,9 +15190,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/26/a6/26a672baacd82233af27ff1de7062087p136923-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/01/a2/01a20c2c06aaea73e27dcdd3439c7073p136911-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/a1/12/a112122c503c9cd7411b80b287192b4bp136912-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1e/dd/1edd338f0ecd64a3986ac4179c39e24dp495988-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/89/94/89946de3a468626192731a3c9745e050p495989-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a2/77/a2778559fa0b3c2ee2b8be46ad682f00p495990-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/81/f9/81f971a8f7221622da0c635fae8d6052p495991-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e9/16/e91695decb3df5ab178cc6c19bac60acp495992-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/70/c7/70c7d900c7d946a316840a668663e2b1p495993-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -15809,9 +15813,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/c3/ea/c3ea2c04846f4ece301a82340f62b280p125412-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/19/97/199719fccdc3d566645b62fdcbcea864p136890-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/e5/fa/e5fa7ca4ebaadf1101e12dcccafd51f6p136891-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/0b/ee/0bee45b696a53bd7f7d920f1ff821f58p495956-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/98/97/9897eca3bab4f7552961b657b62b6481p495959-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/23/e1/23e18fe18439f5eb793dbbaeeb249842p495960-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d9/29/d92946acfd6d613ca833e57b5e368c1ap495961-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/17/10/171010552f7b9aa812f1f5a552057754p495962-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1a/36/1a366ebceec3044d52acc43083c412f0p495963-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -15923,9 +15930,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/9d/57/9d579bc85db790bed092e93694834f8fp125497-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/a9/27/a927627321718de3f44de3c3cb6078fcp136976-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/f0/1b/f01b657752821acc26f0baa9521afe60p136977-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f9/6e/f96e7ca31684b723c2159381dfa24dadp496026-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/4b/b5/4bb54d4c953631382184c90406076f20p496028-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c5/89/c5895b3f53cc2fc509a11215c9f201dfp496027-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d0/4d/d04ddca0be06c851d1d9046fa62e20cbp496029-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a9/74/a974bb14a9bbde995ba90505b2738c09p496030-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ff/67/ff670fbc302ffaee78223fb8ef35ee3ap496031-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -16413,7 +16423,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230941</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes C-Class W205 2014- (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11733</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17036,7 +17045,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232105</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW 5 2003-2010 (E60, sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5691</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18283,9 +18291,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/09/97/09973941dc62e211aaf5e3c3bb8fbd29p33053-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/63/0e/630eabd5020ccd993b77fdbd4087e861p136931-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/14/88/14887999f93dea39cfaecabd2707f0a4p136932-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/aa/05/aa05e0661aaa7a01d01b3b06d8f3c48bp496000-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1a/8c/1a8c416efabf6d3c29f2bf5af41e1199p496001-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/00/ca/00ca4e746c93c546bc8e1ad429043e0ep496002-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ef/c5/efc5e6ae283f672738ba138a2513e3fdp496003-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/62/18/6218dfc6c73f8196dc9827ab9d7689e0p496004-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1b/31/1b3178e3f5dde9b912b8d7b2ee0a718bp496005-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -18397,9 +18408,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/e0/51/e0514bc34161bfc2567a92441e684bd1p125461-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/24/b9/24b956b83a666df97eaf1c5f50eb1eacp136933-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/aa/15/aa15eba2f016a510e87849fcfec7e0a0p136934-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b6/de/b6dea520e0dcb3ca2ab1c84cc4e15d98p495994-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/63/c0/63c0173bd81e40f5ff1f00ce047de13ap495995-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/5a/bf/5abf04841a4a3fd942de5c07c0862c98p495996-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e0/b6/e0b6819ed9584278d6936cbc8613a088p495997-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/21/fd/21fd05fdd9dca294f7c73bde73c4951cp495998-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/7b/2c/7b2cf007480f0eda828a8053113b06a0p495999-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -20085,63 +20099,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PRODUCT_NUMBER>16621</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
-		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Volvo XC60. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
-Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
-U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
-Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
-Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
-Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/10/d9/10d9aaf1524951cc8a512c9088e74abbp138513-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/a6/ee/a6ee9cfb029f6371530f5b49eca4b697p134900-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/49/0f/490fbc94d892d2cce192c26041f79178p134901-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rozměry (hloubka x šířka)</NAME>
-				<VALUE>95,5 x 114</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2017-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>XC60</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Volvo</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1160</PRICE_VAT>
-		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
-		<EAN>5901165215399</EAN>
-		<VAT>21</VAT>
-		<CODE>232922</CODE>
-		<NAME>Gumová vana do kufru Rezaw-Plast Volvo XC60 2017-</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-		<PRODUCT_NUMBER>16622</PRODUCT_NUMBER>
-	</SHOPITEM>
-	<SHOPITEM>
 		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky</DESCRIPTION>
 		<CATEGORIES>
 			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
@@ -20537,7 +20494,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230520</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Honda CR-V 2006-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5746</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20877,7 +20833,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230944</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes CLA-Class 2013-2019 (X117, combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11528</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22047,8 +22002,11 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		</CATEGORIES>
 		<IMAGES>
 			<IMAGE>https://www.autohotarek.cz/upload/images/6d/c0/6dc053cce53988477de534adf29d71efp145445-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/73/d0/73d005b88e1999fe47561da08590cab2p139312-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/d8/9b/d89b292172d8ee948b49beaa4aee2da0p139311-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1c/8c/1c8c8b2c73a2ce7b67b2bda36c3fefa1p496006-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/7c/dd/7cdda1b9de3da28fa9f616a0cd6001d7p496007-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/0c/a5/0ca5d0cf3fbe9e6ce94742755017818bp496008-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/04/db/04db87236459f8e2d8974b153bafef35p496009-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ca/0e/ca0efb734634c8bda5991e0e987b6236p496010-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -22947,6 +22905,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232924</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volvo V60 2018- (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18126</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -25363,8 +25322,11 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		</CATEGORIES>
 		<IMAGES>
 			<IMAGE>https://www.autohotarek.cz/upload/images/ca/fa/cafa9723cc741372e61a432411fa5e11p145446-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/73/d0/73d005b88e1999fe47561da08590cab2p139312-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/d8/9b/d89b292172d8ee948b49beaa4aee2da0p139311-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/5a/0c/5a0cff54fb654ec2e1e899775e98cd61p496012-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/6a/b8/6ab80a030eac2588df0b7d6e0b051b28p496011-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d9/02/d902be8d26a3f5deceed4f2da2d1c40cp496013-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e5/72/e572d1b86dd2893548792caf8c78d7bcp496014-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c4/d3/c4d392cb5f1750706811d5d9b07452a4p496015-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -27961,6 +27923,11 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		</CATEGORIES>
 		<IMAGES>
 			<IMAGE>https://www.autohotarek.cz/upload/images/6d/f8/6df81e5234717b5de18042ee337866f2p266963-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/17/24/17241a6f10825d6ec8ea636628b5cb87p496016-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ab/e8/abe8bc1934dcbba0c89989c35d03f7a9p496017-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c7/b4/c7b434e2668940abb8c5b9448cfec60cp496018-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/9c/74/9c74a8c373fd3299e03ab61f38f7fc60p496019-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b0/a6/b0a68540f3a42586e04d588b529c88ecp496020-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -30390,6 +30357,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230638</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Tucson 2015-2020 (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8343</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30563,63 +30531,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CURRENCY>CZK</CURRENCY>
 		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6169</PRODUCT_NUMBER>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Volvo XC60. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
-Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
-U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
-Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
-Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
-Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/bf/d4/bfd4a9d49f56c9c12db4910f77cca7b3p288526-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/77/0f/770f8aade6233c94676d6c113ad82794p288527-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/23/f8/23f8f13e167b4d1358cfc81a71b3b36dp288528-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rozměry (hloubka x šířka)</NAME>
-				<VALUE>95 x 114</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2017-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>XC60</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Volvo</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1344</PRICE_VAT>
-		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
-		<EAN>5901165222861</EAN>
-		<VAT>21</VAT>
-		<CODE>232926</CODE>
-		<NAME>Gumová vana do kufru Rezaw-Plast Volvo XC60 2017- (Hybrid)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-		<PRODUCT_NUMBER>22842</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
 		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Dacia Logan. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
@@ -32959,7 +32870,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230462</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Tourneo Custom 2012-2018 (dlouhá verze, za 3. řadu)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16504</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33935,7 +33845,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230160</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Citroen C4 2021- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25290</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -36741,7 +36650,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/f9/8d/f98de7a13578234b2152d5e7108bf6c6p477367-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/54/81/54818a09a9bd4d5ca9a6fa0da970118fp495936-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/10/90/1090eaaf52e67cea4f0dbf32e3dfb3adp477369-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/e1/42/e142b06acfdf6c27cd21ad02508d02eap477368-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/15/83/158382190c0260b56cf37fb734464a19p477370-800x800.jpg</IMAGE>
@@ -37422,7 +37331,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231620</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki SX4 S-Cross 2013-2021 (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5826</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38106,7 +38014,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>234102</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Cupra Formentor 2020- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26594</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39697,7 +39604,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230160</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Citroen e-C4 2021- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29118</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -40037,7 +39943,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230768</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Kia Sportage 2022- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29253</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -43744,7 +43649,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232243</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mazda CX-60 2022-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33432</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -48267,7 +48171,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230664</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Kona 2023- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38343</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -49419,7 +49322,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>234404</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast MG ZS 2019- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38951</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50321,7 +50223,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230979</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes E-Class 2023- (sedan, W214 )</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38992</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50456,9 +50357,13 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a3/05/a305b7ff9a88cc090c3dd283956128acp495970-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/8b/3a/8b3ac9cd3b6c59a5aa54d0483fa85febp136925-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/82/7d/827df90411ba1a1d80e97d552ba2a821p136895-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/73/d9/73d94d2929a1983aba851db774dcab67p136896-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/69/dd/69ddad52d371da6ac45b72f2f2cf55aap495971-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a9/c3/a9c36645ace5f5c01337fa0ea97ba274p495972-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/26/a5/26a5389fc0ba754d2bab696fabfd1d92p495973-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a9/76/a97615d488fa5544a6c16f8d4ad79b98p495974-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1f/d1/1fd1e04d94d4f33534168a4ab1ca7483p495975-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -52694,7 +52599,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230976</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLC-Class 2022- (X254)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39761</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53305,7 +53209,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231441</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Seat Leon 2020- (combi, jedno dno i horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>34278</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -54457,7 +54360,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/d5/a1/d5a127f3a8c1c1b19607b97ee4e82890p480948-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c3/2f/c32f43fc0f83e3a5c662ac360f7592d6p495915-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/32/5a/325ad448ab52be1c749ec6c4befa1a1ep495917-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/48/ee/48ee9f267b2be3b488beff37af963eacp495916-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c3/de/c3de1078708ecd028bc67cd8ec9b51a7p495918-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/60/32/6032c508f5b924b5897f8fd64dae8293p495919-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d3/1c/d31cf85082dbcdc5896812170040c34dp495920-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -54511,7 +54419,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/85/71/8571a3414a8487b2e013725691f423acp480950-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/20/21/20211eb999b593f997d140aee5bd14fdp495924-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/8b/7f/8b7fa8e37bc51d63472d22399f2a338cp495925-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/2e/15/2e153d50f538dddd4491857742326920p495926-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/14/aa/14aaf7e3de81635e819b443cd814918dp495927-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d1/bb/d1bb7ae43cdf9ad4c25658f276fea958p495928-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/dc/f0/dcf007bb8774c210524e6058d4d5570ep495929-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -55402,7 +55315,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231622</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Suzuki Vitara 2015- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7851</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -57504,7 +57416,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/4a/47/4a47be80402894dab360e5d818c55cf7p488153-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/38/76/3876ec89a4954690cca0d46095b8f9dep495950-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/52/41/52415cc38d64ab922beed40c9fa8c409p495951-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/bc/8a/bc8a59c93a4499734102ef46700d2872p495952-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/6a/f3/6af357ab95b15f68b4aff41793567308p495953-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e7/fc/e7fca8b7a7005374294364c5da762db7p495954-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ec/e4/ece47b15ff7a48be9172c9a8f635dc97p495955-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -57677,7 +57594,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/ae/04/ae0454a0b1ad829019d43f64738e688ap489110-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/28/bb/28bbe8a38207da370f99cd1811470c6bp495930-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c9/10/c9108eb91177373a88a4b2b136310be5p495931-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/5c/27/5c27239e2215a61c34a066c548a07384p495932-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/88/f6/88f6fbc8337d6b39cce46148e567d415p495933-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1c/eb/1ceb4d88ee9808dc3cb6939301437617p495934-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b2/88/b288037f6a3c8702d57e69c257624441p495935-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -58134,7 +58056,11 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/68/2f/682f687932a7adc390605a50f4e696dap492360-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/4c/51/4c51e61b14a21e3eecb1ab4c03a4a60fp495982-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/36/8c/368cb48973a635683a8c3a73b7e6d107p495983-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/15/35/1535bbce057acfbcf8519042d8578923p495984-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/23/7e/237e90f10b61900095ec4c4cda2048e5p495985-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/58/d7/58d743a9e098cc2a3067a481928dfe64p495986-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -58741,6 +58667,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230638</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Kia Sportage 2016-2021 (horní dno, rezerva i dojezdové kolo)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8765</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -58756,7 +58683,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/1c/2e/1c2eae3d8219e01cd3f8221e2d56557cp495657-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/84/3c/843cff400cf0c6be4233bc7bd527415ap495976-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f1/0c/f10cd74594486656200bd1673e2269f1p495977-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d5/df/d5df6ad3bd0a6e859d8135dcac2da966p495978-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/22/57/2257d5c1960b723a78096d2e0da4ea3fp495979-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/20/e0/20e0d97bea7e8690f293d9a2013163ffp495980-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/7e/aa/7eaa9baf581197150b6e069b89657799p495981-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -58796,5 +58728,119 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Megane E-Tech 2022-</NAME>
 		<CURRENCY>CZK</CURRENCY>
 		<PRODUCT_NUMBER>42688</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Volvo XC60. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
+Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
+U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
+Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
+Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
+Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/bf/d4/bfd4a9d49f56c9c12db4910f77cca7b3p288526-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/77/0f/770f8aade6233c94676d6c113ad82794p288527-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/23/f8/23f8f13e167b4d1358cfc81a71b3b36dp288528-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>95 x 114</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2017-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>XC60</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Volvo</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1399</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165222861</EAN>
+		<VAT>21</VAT>
+		<CODE>232926</CODE>
+		<NAME>Gumová vana do kufru Rezaw-Plast Volvo XC60 2017- (hybrid)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>22842</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Volvo XC60. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
+Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
+U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
+Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
+Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
+Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/10/d9/10d9aaf1524951cc8a512c9088e74abbp138513-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a6/ee/a6ee9cfb029f6371530f5b49eca4b697p134900-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/49/0f/490fbc94d892d2cce192c26041f79178p134901-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>95,5 x 114</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2017-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>XC60</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Volvo</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1160</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165215399</EAN>
+		<VAT>21</VAT>
+		<CODE>232922</CODE>
+		<NAME>Gumová vana do kufru Rezaw-Plast Volvo XC60 2017- (spalovací motor)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>16622</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
