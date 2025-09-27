@@ -8689,7 +8689,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230927</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLK-Class X204 2008-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6650</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22181,7 +22180,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2018-</VALUE>
+				<VALUE>2018-2025</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
@@ -27124,7 +27123,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2019-</VALUE>
+				<VALUE>2019-2025</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
@@ -29180,7 +29179,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2018-</VALUE>
+				<VALUE>2018-2025</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
@@ -58707,7 +58706,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2018-</VALUE>
+				<VALUE>2018-2025</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
