@@ -1236,7 +1236,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230130</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Citroen C3 2009-2017 (dojezdové kolo)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5703</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -15197,7 +15196,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232220</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mazda 6 2008-2012 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7914</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16053,7 +16051,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231875</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Touran 2015- (5 i 7 míst, horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8381</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21739,7 +21736,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231355</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Scenic 2009-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17826</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22083,7 +22079,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230646</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai i30 2017- (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18002</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -24091,7 +24086,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231534</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Karoq 2017- (4x2, dojezdové kolo, VarioFlex)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16994</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35654,7 +35648,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>2318101</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Golf VIII. 2020- (combi, dolní dno, Mild Hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25958</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42112,7 +42105,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231790</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Aygo X 2022- (bez systému JBL)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33402</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45786,7 +45778,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230447</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Tourneo Courier 2014-2023 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18823</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46761,7 +46752,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230485</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Tourneo Grand Connect  2022- (L2, 5 i 7 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38318</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -48311,7 +48301,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231532</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Škoda Kodiaq I. 2017-2024 (5 míst, dojezdové kolo i opravná sada)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>15518</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -59841,6 +59830,9 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/50/46/5046fc6867b5141bc937b3f13d28f07ep501612-800x800.jpg</IMAGE>
+		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
