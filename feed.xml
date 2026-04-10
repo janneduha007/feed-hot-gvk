@@ -35247,6 +35247,162 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PRODUCT_NUMBER>5764</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
+		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1a/80/1a80857513cd04c7826a1679b3c37942p133026-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c7/64/c76463b0fb014ba3d1478f8e7bf52135p342389-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d6/a4/d6a4822d99daad828435d3ab604fb13ep132857-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/97/8a/978ac8d52af3dea5fbeb0e74cbe89299p132858-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>tvrzený gumoplast</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>310 x 188</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2022-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Movano</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Opel</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>4599</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165207714</EAN>
+		<VAT>21</VAT>
+		<CODE>100348</CODE>
+		<NAME>Vložka Rezaw-Plast Opel Movano 2022- (L2)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>26533</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b9/9e/b99eab86187caa41e411bd7dd15834a8p133029-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a6/38/a6383a56b5c74acb08dd14847291be59p79287-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/92/2d/922dfbfbf9f0f04ab6c40af1efb93b3fp132863-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/8b/b0/8bb08bb79d4f2d87f0b8b7f8e8aaaea9p132864-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>tvrzený gumoplast</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>370 x 188</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2022-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Movano</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Opel</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>5899</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165207721</EAN>
+		<VAT>21</VAT>
+		<CODE>100349</CODE>
+		<NAME>Vložka Rezaw-Plast Opel Movano 2022- (L3)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>26534</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/81/f9/81f9caa403343d26202fb0daa8443dc3p126700-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/4d/51/4d51198992f58357bd659f33931a8195p79284-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/19/1d/191d96e65a39e1c08bb2cb9453afb2ffp132869-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ce/86/ce86c5afc8bb602b3ec62ef2db50e287p132870-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>tvrzený gumoplast</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>405 x 188</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2022-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Movano</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Opel</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>5999</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165207912</EAN>
+		<VAT>21</VAT>
+		<CODE>100351</CODE>
+		<NAME>Vložka Rezaw-Plast Opel Movano 2022- (L4)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>26535</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
 		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Mercedes EQA. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
 Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
 U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
@@ -37017,6 +37173,58 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PRODUCT_NUMBER>27371</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
+		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/2e/f6/2ef607103b7c33af683f31c582d058bap298253-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/38/3b/383b455b62b5b72761e660959d388587p298252-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/be/ac/beac1d4f90216e73c59ec863332f9136p298255-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b0/25/b025eb8fcca07d129c56e8eb31c5a237p298254-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>tvrzený gumoplast</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>189 x 136</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2021-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Express</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Renault</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1790</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165232501</EAN>
+		<VAT>21</VAT>
+		<CODE>1013108</CODE>
+		<NAME>Vložka Rezaw-Plast Renault Express Van 2021-</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>27477</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
 		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Peugeot 308. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
 Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
 U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
@@ -37980,6 +38188,162 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CURRENCY>CZK</CURRENCY>
 		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6655</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/9d/ef/9defee2ec0f1cb688e688b7a55f6c9cep133017-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/4a/5c/4a5c7903070b938cf0f69a92454389bcp25378-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/85/34/8534077aa8d0620dc8124693f79ea2a2p132953-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c8/6a/c86ac754688d13da155df9d23f75283dp132954-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>tvrzený gumoplast</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>370 x 177,5</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2010-2021</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Movano</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Opel</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>5629</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165207691</EAN>
+		<VAT>21</VAT>
+		<CODE>101378</CODE>
+		<NAME>Vložka Rezaw-Plast Opel Movano 2010-2021 (L3)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>7693</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c9/32/c9329f8c19c53f108cb5a47a9a663bbbp133019-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/92/10/9210cfea41d5fa919b4cb20bcf7115b5p77332-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/67/fd/67fddf596b5e2d8ecd206cb407acb6ebp132957-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/91/87/918717d1e581e343a644c0a87eb3bdc2p132958-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>tvrzený gumoplast</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>440 x 176</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2010-2021</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Movano</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Opel</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>5369</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165207707</EAN>
+		<VAT>21</VAT>
+		<CODE>101379</CODE>
+		<NAME>Vložka Rezaw-Plast Opel Movano 2010-2021 (L4)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>7765</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/86/93/86935b3785c21ac0657bfde4f72471abp133015-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/25/b8/25b887d78f4275351c09f334e68e2b25p267364-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/48/d4/48d40cd5b482e6eaa70e0e3e7e40ad97p132949-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/60/6f/606fafdd231b4441132c9bc7491d6e4ep132950-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>tvrzený gumoplast</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>303 x 178</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2010-2021</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Movano</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Opel</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>4099</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165208025</EAN>
+		<VAT>21</VAT>
+		<CODE>101381</CODE>
+		<NAME>Vložka Rezaw-Plast Opel Movano 2010-2021 (L2)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>7789</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
 		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Renault Kadjar. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
@@ -53287,6 +53651,58 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<NAME>Gumová vana do kufru Rezaw-Plast Fiat Tipo 2016- (hb, s CargoBoxem)</NAME>
 		<CURRENCY>CZK</CURRENCY>
 		<PRODUCT_NUMBER>14316</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>- plochá vložka bez okrajů přesně kopíruje profil nákladního prostoru vozu dané značky - zhotovené z velmi kvalitního gumoplastu odolného proti mechanickému opotřebení - povrch zdrsněn vzorkem, který zabraňuje posouvání nákladu - snadná údržba běžnými čisticími prostředky</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d5/b0/d5b0c67659baf1c2a8c295592cc9b5c4p24200-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d3/93/d3932943c6bd0c4ae867b744430ff51cp240484-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e3/46/e346bcea91832db72736d281f230e6e6p132851-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/27/ac/27aca7c11ecc1619c95a119d5d9e894ap132852-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>tvrzený gumoplast</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>266,5 x 188</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2022-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Movano</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Opel</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>3599</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165207905</EAN>
+		<VAT>21</VAT>
+		<CODE>100350</CODE>
+		<NAME>Vložka Rezaw-Plast Opel Movano 2022- L1</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>26532</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
 		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Lexus LBX. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
