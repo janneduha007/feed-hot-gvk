@@ -1582,6 +1582,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230125</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Citroen C5 2008-2017 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5711</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4406,7 +4407,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230622</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai i30 2008-2012 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5793</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5664,7 +5664,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232917</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volvo V60 2010- (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5822</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11022,6 +11021,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231734</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Avensis 2009-2018 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6714</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11982,6 +11982,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232018</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Audi A4 2007-2015 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6856</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12038,6 +12039,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232018</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Audi A5/S5 2007-2016 (coupe)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6857</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12094,6 +12096,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231375</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Megane 2014-2016 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6876</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -15027,6 +15030,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232919</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Volvo XC90 2015-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8273</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -15595,6 +15599,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230942</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLE-Class 2015- (C292, coupe)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11787</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18429,6 +18434,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232405</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Alfa Romeo Giulia 2016-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>15065</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20439,6 +20445,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231880</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW T-Roc 2017- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17649</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22566,6 +22573,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230523</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Honda Jazz 2008-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18826</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -25698,6 +25706,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231892</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW T-Cross 2019- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22005</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -26100,6 +26109,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>2313104</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Captur 2020- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22154</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28805,6 +28815,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231857</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Beetle 2011-2019 (bez subwooferu)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5760</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30142,6 +30153,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230467</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Tourneo Custom 2012-2018 (krátká verze, za 3. řadu)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18083</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30200,6 +30212,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230467</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Tourneo Custom 2018- (krátká verze, za 3. řadu)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25029</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30487,7 +30500,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230633</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai i10 2014-2020 (hb)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5792</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33442,6 +33454,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230753</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Kia Sportage 2016-2021 (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16337</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -36876,6 +36889,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230481</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Mustang Mach-E 2020- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29250</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -41186,7 +41200,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230658</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Hyundai Bayon 2021- (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25987</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42286,7 +42299,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231872</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Passat B8 2015-2023 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6854</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -43652,6 +43664,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231870</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Golf VII. Sportsvan 2014-2018 (dolní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8088</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -47096,6 +47109,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231764</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota C-HR 2016-2022 (opravná sada)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17646</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53677,6 +53691,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230957</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLE-Class 2019-  (W167)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22445</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53735,6 +53750,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>230970</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLE-Class 2019- (W167, hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40494</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -55126,6 +55142,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232157</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X3 2017-2025 (G01, hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>24349</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -56268,7 +56285,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>234007</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Dacia Duster 2024- (MHEV, LPG)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>42167</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -57620,7 +57636,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PRODUCT_NUMBER>44449</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
-		<DESCRIPTION>Kvalitní Gumová vana do kufru Rezaw-Plast Audi Q7 2018-2025 (5 i 7 míst, béžová) za1920 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<DESCRIPTION>Kvalitní Gumová vana do kufru Rezaw-Plast Audi Q7 2018-2025 (5 i 7 míst, béžová) za1440 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
 		<CATEGORIES>
 			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
@@ -57654,7 +57670,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 				<VALUE>Audi</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>1920</PRICE_VAT>
+		<PRICE_VAT>1440</PRICE_VAT>
 		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
 		<EAN>5901165226845</EAN>
 		<VAT>21</VAT>
@@ -58638,6 +58654,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232112B</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast BMW X5 2006-2013 (E70, béžová)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44473</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -62259,6 +62276,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231883</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Touareg 2018-2026</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25697</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -62732,6 +62750,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>2317107</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Toyota Aygo X 2025- (hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>45274</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -63087,6 +63106,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231883</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Porsche Cayenne 2017-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>45394</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -64299,6 +64319,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231879</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast VW Arteon 2020-2025 (sedan, horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19359</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -64828,65 +64849,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PRODUCT_NUMBER>8380</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
-		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Seat Leon. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
-Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
-U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
-Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
-Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
-Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/ec/8e/ec8ed59d3cbe4a64f0ef1aa9d6365996p477479-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/fb/37/fb37ebdea7a4338fec71a9df8e094df4p477476-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/19/b0/19b086107fce1685349a169ac1a43721p477475-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/30/e7/30e749a521832c13e9f49434a6596b03p477477-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/fb/d8/fbd8fb7a7bb28a708eb8005193e7330cp477478-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rozměry (hloubka x šířka)</NAME>
-				<VALUE>105 x 105</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2020-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Leon</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Seat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1399</PRICE_VAT>
-		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
-		<EAN>5901165226036</EAN>
-		<VAT>21</VAT>
-		<CODE>231441</CODE>
-		<NAME>Gumová vana do kufru Rezaw-Plast Seat Leon 2020-2024 (combi, jedno dno i horní dno)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-		<PRODUCT_NUMBER>34278</PRODUCT_NUMBER>
-	</SHOPITEM>
-	<SHOPITEM>
 		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Ford Explorer. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
 Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
 U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
@@ -64943,65 +64905,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<NAME>Gumová vana do kufru Rezaw-Plast Ford Explorer 2024- (elektrická verze)</NAME>
 		<CURRENCY>CZK</CURRENCY>
 		<PRODUCT_NUMBER>45943</PRODUCT_NUMBER>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Seat Leon. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
-Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
-U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
-Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
-Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
-Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/7f/48/7f48ea0e451b1bf8f5f7714cf2c1a1f8p478133-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/ae/08/ae08e7a3fc97324ca1677658ae55e77fp478135-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/66/b2/66b2dfee0d4f225a0262892b6a6699f9p478134-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/96/6c/966c2a83fd820e56e72c6d7b55757d41p478136-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/46/2a/462a2e1ab2ed267914695f5ac22bd934p478137-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rozměry (hloubka x šířka)</NAME>
-				<VALUE>77,5 x 100/111</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2020-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Leon</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Seat</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1180</PRICE_VAT>
-		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
-		<EAN>5901165223356</EAN>
-		<VAT>21</VAT>
-		<CODE>231440</CODE>
-		<NAME>Gumová vana do kufru Rezaw-Plast Seat Leon 2020-2024 (hatchback)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-		<PRODUCT_NUMBER>23236</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
 		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Toyota Corolla Cross od roku 2022- s motorizací 2.0 HEV / pohon 4x4. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
@@ -65233,5 +65136,239 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<NAME>Gumová vana do kufru Rezaw-Plast Mercedes GLC-Class 2019-2022 (X253, plug-in hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
 		<PRODUCT_NUMBER>36045</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Seat Leon. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
+Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
+U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
+Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
+Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
+Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ec/8e/ec8ed59d3cbe4a64f0ef1aa9d6365996p477479-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/fb/37/fb37ebdea7a4338fec71a9df8e094df4p477476-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/19/b0/19b086107fce1685349a169ac1a43721p477475-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/30/e7/30e749a521832c13e9f49434a6596b03p477477-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/fb/d8/fbd8fb7a7bb28a708eb8005193e7330cp477478-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>105 x 105</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2020-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Leon</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Seat</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1399</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165226036</EAN>
+		<VAT>21</VAT>
+		<CODE>231441</CODE>
+		<NAME>Gumová vana do kufru Rezaw-Plast Seat Leon 2020- (combi, jedno i horní dno)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>34278</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Cupra Leon. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
+Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
+U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
+Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
+Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
+Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ec/8e/ec8ed59d3cbe4a64f0ef1aa9d6365996p477479-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/fb/37/fb37ebdea7a4338fec71a9df8e094df4p477476-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/19/b0/19b086107fce1685349a169ac1a43721p477475-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/30/e7/30e749a521832c13e9f49434a6596b03p477477-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/fb/d8/fbd8fb7a7bb28a708eb8005193e7330cp477478-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>105 x 105</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2021-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Leon</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Cupra</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1399</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165226036</EAN>
+		<VAT>21</VAT>
+		<CODE>231441</CODE>
+		<NAME>Gumová vana do kufru Rezaw-Plast Cupra Leon 2021-2024 (combi, jedno i horní dno)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>46025</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Seat Leon. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
+Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
+U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
+Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
+Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
+Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/7f/48/7f48ea0e451b1bf8f5f7714cf2c1a1f8p478133-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ae/08/ae08e7a3fc97324ca1677658ae55e77fp478135-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/66/b2/66b2dfee0d4f225a0262892b6a6699f9p478134-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/96/6c/966c2a83fd820e56e72c6d7b55757d41p478136-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/46/2a/462a2e1ab2ed267914695f5ac22bd934p478137-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>77,5 x 100/111</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2020-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Leon</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Seat</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1180</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165223356</EAN>
+		<VAT>21</VAT>
+		<CODE>231440</CODE>
+		<NAME>Gumová vana do kufru Rezaw-Plast Seat Leon 2020-2024 (hb, dolní dno)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>23236</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumová vana má přesný tvar pro vůz Cupra Leon. Díky přesnému střihu vyplní zavazadlový prostor a dokonale ochrání kufr před znečištěním nebo před poškozením původního koberce.
+Gumové vany do kufru od výrobce Rezaw-Plast mají pro většinu modelů zvýšený okraj (3-4cm), který v případě vylitého nákladu nebo roztátého sněhu bezpečně udrží tekutinu a ochrání interiér vozu.
+U modelů aut, které mají dno a hranu kufru v jedné rovině, nemá hrana gumové vany směřující ven z kufru zvýšený okraj a to z toho důvodu, aby při manipulaci s nákladem zvýšený okraj nepřekážel.
+Povrch gumové vany má hrubou, protiskluzovou texturu, která do jisté míry brání převáženému nákladu proti samovolnému posouvání v zatáčkách.
+Vanu lze  z kufru kdykoliv velmi jednoduše vyjmout. Údržba i čištění je pak velice snadné.Pokud si nejste jisti s výběrem vany do kufru a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+Vpravo naleznete odkaz na článek, kde Vám podrobně přiblížíme, jaké typy gumových nebo plastových van můžete pro své auto pořídit.
+Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou na konci článku shrnuty v přehledné tabulce.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/7f/48/7f48ea0e451b1bf8f5f7714cf2c1a1f8p478133-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ae/08/ae08e7a3fc97324ca1677658ae55e77fp478135-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/66/b2/66b2dfee0d4f225a0262892b6a6699f9p478134-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/96/6c/966c2a83fd820e56e72c6d7b55757d41p478136-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/46/2a/462a2e1ab2ed267914695f5ac22bd934p478137-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rozměry (hloubka x šířka)</NAME>
+				<VALUE>77,5 x 100/111</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2021-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Leon</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Cupra</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1180</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165223356</EAN>
+		<VAT>21</VAT>
+		<CODE>231440</CODE>
+		<NAME>Gumová vana do kufru Rezaw-Plast Cupra Leon 2021-2024 (hb, dolní dno)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>46026</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
