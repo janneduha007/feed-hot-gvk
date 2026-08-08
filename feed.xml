@@ -15146,7 +15146,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231316</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Renault Laguna II. 2001-2007 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8310</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -65423,6 +65422,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>232412</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Alfa Romeo Junior 2024- (spalovací i eletrická verze)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>46036</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
