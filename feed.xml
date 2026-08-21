@@ -54753,7 +54753,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<CODE>231256</CODE>
 		<NAME>Gumová vana do kufru Rezaw-Plast Peugeot 3008 2024- (horní dno)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40262</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -60138,7 +60137,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Značka vozu</NAME>
-				<VALUE>Dongfeng / Forthing</VALUE>
+				<VALUE>Forthing</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
 		<PRICE_VAT>799</PRICE_VAT>
