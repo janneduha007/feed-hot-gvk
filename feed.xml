@@ -34210,7 +34210,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6738</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -44703,7 +44702,12 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/c7/d0/c7d06fb268ec4a6a30d7067b5f028c55p296528-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/03/8c/038c4f99efe122cacd15de700ad97569p521234-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e2/28/e228923bb4b01d401b815706a529d892p521239-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/15/4f/154ff27b21632a64386f7ed14d10630bp521235-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/40/03/4003cead3e73845ee85c32478c1ba9bap521236-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/28/5d/285d115fc9cd9a710e11fae8a9bce7a3p521237-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b1/6e/b16e82b6ed9bae75e874d060048c8e35p521238-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -44903,7 +44907,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5722</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -56689,7 +56692,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7347</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -68723,7 +68725,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>43167</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -82387,6 +82388,14 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			<CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Vany do kufru</DEFAULT_CATEGORY>
 		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e3/06/e30642e2cb2cc87441e7422be7c9049dp521240-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/db/0f/db0f7f3471cca25ab62a92f0f8600dfcp521241-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/43/88/4388686d7c22409cf476e9738f94e80cp521242-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ad/c2/adc2ef75b073d95d36ef9252bb67fe41p521243-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/df/d9/dfd937d767f99b7576cf7b3c7d165fe1p521244-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/27/61/276199da53d2a36160e9e541c6077a89p521245-800x800.jpg</IMAGE>
+		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
