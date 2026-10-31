@@ -10945,7 +10945,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6630</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -59817,7 +59816,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8276</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -65287,7 +65285,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
-				<VALUE>X3 (G01, G08)</VALUE>
+				<VALUE>X3 / iX3 (G01, G08)</VALUE>
 				<DESCRIPTION />
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
@@ -77432,7 +77430,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
-				<VALUE>X3 (G01, G08)</VALUE>
+				<VALUE>X3 / iX3 (G01, G08)</VALUE>
 				<DESCRIPTION />
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
@@ -82590,7 +82588,7 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
-				<VALUE>X3 (G01, G08)</VALUE>
+				<VALUE>X3 / iX3 (G01, G08)</VALUE>
 				<DESCRIPTION />
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
