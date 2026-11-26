@@ -1244,7 +1244,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5694</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7311,7 +7310,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5810</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13901,7 +13899,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6685</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18367,7 +18364,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7101</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19974,7 +19970,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7771</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20305,7 +20300,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7849</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30159,7 +30153,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7868</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31934,7 +31927,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18826</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33614,7 +33606,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19608</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35520,7 +35511,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22002</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35600,7 +35590,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22003</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -37562,7 +37551,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22433</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39490,7 +39478,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5738</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42678,7 +42665,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5792</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -44661,7 +44647,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16505</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45800,7 +45785,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18980</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46287,7 +46271,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8275</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -47622,7 +47605,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26170</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53581,7 +53563,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>31264</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -54009,7 +53990,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>31560</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -63055,7 +63035,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16508</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -65599,7 +65578,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39095</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -66030,7 +66008,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39153</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -67796,7 +67773,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39771</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -68533,7 +68509,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17907</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -71631,7 +71606,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40936</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -73096,7 +73070,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>41744</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -75118,7 +75091,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40494</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -75195,7 +75167,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22432</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -79339,7 +79310,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>43769</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -79403,7 +79373,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>43770</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -83657,7 +83626,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44577</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -83726,7 +83694,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44578</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -84568,7 +84535,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44695</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -86727,7 +86693,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26687</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -87891,7 +87856,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33402</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -89162,7 +89126,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40074</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -92562,7 +92525,6 @@ Dále popisujeme hlavní výhody i nevýhody jednotlivých typů, které jsou n
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>46136</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
